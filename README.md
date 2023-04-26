@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">I am John Mintz</p>
+<h1 align="center">I am John Mintz</h1>
 
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on open-source projects
